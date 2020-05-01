@@ -22,7 +22,7 @@
       </tags>
   </entry>
   <entry>
-    <title>交换排序</title>
+    <title>排序（一）交换排序 c/c++与python实现</title>
     <url>/2020/05/01/sort_1/</url>
     <content><![CDATA[<h1 id="交换排序"><a href="#交换排序" class="headerlink" title="交换排序"></a>交换排序</h1><p>交换，指的是根据序列中两个关键字的比较结果来对换这两个记录在序列中的位置，主要有冒泡排序与快速排序。</p>
 <h2 id="冒泡排序（Bubble-Sort）"><a href="#冒泡排序（Bubble-Sort）" class="headerlink" title="冒泡排序（Bubble Sort）"></a>冒泡排序（Bubble Sort）</h2><p><strong>冒泡排序的基本思想</strong>：从前往后或者从后往前，对相邻的两个元素进行比较，若逆序，则交换。每次冒泡排序都会让至少一个元素移动到它应该在的位置，重复n-1，就完成了对n个数据的排序。</p>
